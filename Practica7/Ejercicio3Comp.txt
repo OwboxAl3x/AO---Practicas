@@ -1,0 +1,6 @@
+
+Respecto a la diferencia entre cinematica directa e inversa:
+
+En la animación del bipedo diciendo adios, me ha resultado más facil con cinematica inversa, moviendo la mano puedes hacer la animación entera facilmente. Sin embargo con la cinematica directa necesitas hacer rotación y movimiento a cada parte del brazo.
+
+En la animación del bipedo limpiando una mesa, la forma que más facil me ha parecido es la directa. Hay que modificar cada parte del brazo por separado y parte del tronco, pero aun así, con la cinematica inversa se metia la mano dentro de la mesa y necesitaba de movimientos extras.
